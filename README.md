@@ -30,7 +30,7 @@
 
 ### 📫 Let’s Connect
 - 🌐 [LinkedIn](https://www.linkedin.com/in/swapnil-chand-806a2a288/)
-- 📬 Email: sxc0623@mavs.uta.edu
+- 📬 Email: sxc0623@mavs.uta.edu / swapnilchand0007@gmail.com
 - 🐙 Exploring, learning, and growing at [github.com/SwapnilChand0623](https://github.com/SwapnilChand0623)
 
 ---
