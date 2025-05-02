@@ -15,9 +15,9 @@
 ---
 
 ### 🛠️ Tech I Use
-- **Languages**: C, Python, JavaScript, C++
+- **Languages**: C, Python, java, JavaScript, C++
 - **Tools**: Git, VS Code, Linux, GDB, Valgrind
-- **Concepts**: OOP, Hash Tables, Dynamic Programming, Edit Distance
+- **Concepts**: OOP, Hash Tables, Dynamic Programming
 
 ---
 
@@ -29,7 +29,7 @@
 ---
 
 ### 📫 Let’s Connect
-- 🌐 [LinkedIn](https://www.linkedin.com/in/swapnilchand) *(update this if you have one)*
+- 🌐 [LinkedIn](https://www.linkedin.com/in/swapnil-chand-806a2a288/)
 - 📬 Email: sxc0623@mavs.uta.edu
 - 🐙 Exploring, learning, and growing at [github.com/SwapnilChand0623](https://github.com/SwapnilChand0623)
 
