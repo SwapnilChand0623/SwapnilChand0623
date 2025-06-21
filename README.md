@@ -39,6 +39,6 @@
 - **📈 Stockiez** – Stock Price Prediction API with LSTM 🤖
 Welcome to Stockiez, a Flask-based web API that predicts stock prices using deep learning models! 🚀
 Powered by LSTM neural networks, this API delivers smart, time-series based forecasts for popular tickers like SPY, AAPL, MSFT, and NKE.
-- https://github.com/SwapnilChand0623/Stockiez
+ https://github.com/SwapnilChand0623/Stockiez
 
 > 💬 “It’s not about being the best—just better than yesterday.” 
