@@ -22,8 +22,8 @@
 ---
 
 ### 🔥 Current Focus
-- 🚀 Building and uploading class projects (Hash Table Dictionary, Spell Checker, etc.)
-- 🧠 Daily DSA practice (Fibonacci, Knapsack, Graphs, etc.)
+- 🚀 Building and uploading full-stack projects
+- 🧠 Daily leetcode practice 
 - 🎯 Hunting internships for **Summer 2026**
 
 ---
@@ -40,5 +40,9 @@
 Welcome to Stockiez, a Flask-based web API that predicts stock prices using deep learning models! 🚀
 Powered by LSTM neural networks, this API delivers smart, time-series based forecasts for popular tickers like SPY, AAPL, MSFT, and NKE.
  https://github.com/SwapnilChand0623/Stockiez
+
+- **🚀 Prep67** - AI interview coach
+  Prep67, a browser-based mock interview coach that helps users practice for real tech job interviews—complete with live camera, microphone, and instant AI feedback.
+  https://github.com/SwapnilChand0623/Prep67
 
 > 💬 “It’s not about being the best—just better than yesterday.” 
