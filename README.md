@@ -45,4 +45,8 @@ Powered by LSTM neural networks, this API delivers smart, time-series based fore
   Prep67, a browser-based mock interview coach that helps users practice for real tech job interviews—complete with live camera, microphone, and instant AI feedback.
   https://github.com/SwapnilChand0623/Prep67
 
+- **Campus Roommate Finder**
+  A full-stack web app designed to help college students find compatible roommates based on lifestyle preferences, housing type, and interests. Built with a modern UI and real-time     interactions, the platform improves campus housing experiences through smarter matching and a simple onboarding flow.
+  https://github.com/SwapnilChand0623/Campus-Roommate.-Finder
+
 > 💬 “It’s not about being the best—just better than yesterday.” 
